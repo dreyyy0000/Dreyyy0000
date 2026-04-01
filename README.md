@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👨‍💻 Dreyyy
 
-<!--
-**dreyyy0000/Dreyyy0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <b style="color:#00FFFF;">Desenvolvedor FullStack</b>
+</p>
 
-Here are some ideas to get you started:
+Olá, me chamo Andrey Lucas da Silva Santos, tenho 19 anos e sou de São Paulo. Concluí o ensino médio integrado ao curso técnico em Desenvolvimento Web. Atualmente, curso Análise e Desenvolvimento de Sistemas pela FullStack Turbo. Tenho grande interesse por tecnologia e estou em constante evolução na área. Possuo conhecimento em inglês básico para leitura e compreensão técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.instagram.com/dreyyy_0001/">
+    <img 
+      alt="Instagram" 
+      title="Me siga no Instagram" 
+      src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+  <a href="mailto:Andreyyllucas@gmail.com">
+    <img 
+      alt="Email" 
+      title="Me envie um email" 
+      src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&style=for-the-badge"
+    />
+  </a>
+</p>
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="30px"/>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dreyyy0000&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img 
+    align="left" 
+      alt="GitHub Stats" 
+      height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dreyyy0000&theme=tokyonight&layout=compact&langs_count=7"
+  />
+</p>
