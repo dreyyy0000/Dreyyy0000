@@ -4,7 +4,7 @@
   <b style="color:#00FFFF;">Desenvolvedor FullStack</b>
 </p>
 
-Olá, me chamo Andrey Lucas da Silva Santos, tenho 19 anos e sou de São Paulo. Concluí o ensino médio integrado ao curso técnico em Desenvolvimento Web. Atualmente, curso Análise e Desenvolvimento de Sistemas pela FullStack Turbo. Tenho grande interesse por tecnologia e estou em constante evolução na área. Possuo conhecimento em inglês básico para leitura e compreensão técnica.
+Olá, me chamo Andrey Lucas da Silva Santos, tenho 18 anos e sou de São Paulo. Concluí o ensino médio integrado ao curso técnico em Desenvolvimento Web. Atualmente, curso Análise e Desenvolvimento de Sistemas pela FullStack Turbo. Tenho grande interesse por tecnologia e estou em constante evolução na área. Possuo conhecimento em inglês básico para leitura e compreensão técnica.
 
 <p align="left">
   <a href="https://www.instagram.com/dreyyy_0001/">
